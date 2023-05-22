@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 90px;
+}
+ul li  {
+    display: inline-block;
+    justify-content: space-around;
+    margin: 0 20px;
+}
